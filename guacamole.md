@@ -6,4 +6,5 @@
 * onion
 * tomato
 * chile
+* olive oil
 ## Instructions
