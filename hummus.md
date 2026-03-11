@@ -1,4 +1,4 @@
 #Ingredients
-##chickpeas
+*chickpeas
 #Steps
-##Mush the keys 
+*Mush the peas 
